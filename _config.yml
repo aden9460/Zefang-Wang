@@ -2,14 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: zfwang # the website title (if blank, full name will be used instead)
+first_name:Zefang
+middle_name:
+last_name: Wang
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  👋 Hi, there. I am Zefang Wang. Currently, I am a visiting student at the ENCODE Lab, Westlake University, advised by Prof. Huan Wang. I am also a Master's student at Zhejiang University, advised by Dr. Guanzhong Tian. Prior to this, I received my B.S. degree from the North University of China.
+    My research interests lie in Efficient AI, with a particular focus on accelerating image generation models via network pruning, knowledge distillation, and quantization.
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -20,7 +22,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://aden9460.github.io # the base hostname & protocol for your site
 baseurl: /Zefang-Wang # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: True # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
