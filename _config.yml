@@ -2,15 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: zfwang # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Zefang
 middle_name:
 last_name: Wang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  contact me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  👋 Hi, there. I am Zefang Wang. Currently, I am a visiting student at the ENCODE Lab, Westlake University, advised by Prof. Huan Wang. I am also a Master's student at Zhejiang University, advised by Dr. Guanzhong Tian. Prior to this, I received my B.S. degree from the North University of China.
-    My research interests lie in Efficient AI, with a particular focus on accelerating image generation models via network pruning, knowledge distillation, and quantization.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
