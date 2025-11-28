@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/Zefang-Wang/";
@@ -77,16 +77,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/Zefang-Wang/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-submitted-evar-to-cvpr-2025-and-obs-diff-to-iclr-2025-fingers-crossed",
+          title: 'Submitted EVAR to CVPR 2025 and OBS-Diff to ICLR 2025. Fingers crossed! 🤞...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-on-information-theoretic-framework-for-channel-pruning-has-been-accepted-to-ieee-tnnls",
+          title: 'Our paper on Information Theoretic Framework for Channel Pruning has been accepted to...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/Zefang-Wang/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-my-visiting-position-at-the-encode-lab-westlake-university-advised-by-prof-huan-wang-focus-on-ios-model-deployment-and-visual-autoregressive-model-compression",
+          title: 'Started my visiting position at the ENCODE Lab, Westlake University, advised by Prof....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
