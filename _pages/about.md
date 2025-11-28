@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
 subtitle: 
 
@@ -26,13 +26,23 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+  
+  
+  
+  
+Hi there! I am **Zefang Wang** (王泽芳).
 
-Hi, there! I am **Zefang Wang** (王泽芳). Currently, I am a visiting student at the [ENCODE Lab](https://encode-lab-ai.github.io/), Westlake University, advised by [Prof. Huan Wang](https://huanwang.tech/). I am also a Master's student at Zhejiang University, advised by [Dr. Guanzhong Tian](https://gylu22.github.io/). Prior to this, I received my B.S. degree from the North University of China.
+I am currently a visiting student at the [ENCODE Lab](https://encode-lab-ai.github.io/), Westlake University, advised by [Prof. Huan Wang](https://huanwang.tech/). I am also pursuing my Master's degree in Control Engineering at Zhejiang University, supervised by [Dr. Guanzhong Tian](https://gylu22.github.io/).
+
+Previously, I received my B.S. degree in Rail Transit Signal and Control from North University of China, where I graduated with the top ranking (1%) in my major.
 
 ## Research Interests
 
-My research interests lie in **Efficient AI**, with a particular focus on accelerating image generation models via:
+My research focuses on **Efficient AI** and **Model Compression**, with particular emphasis on:
 
-- Network pruning
-- Knowledge distillation
-- Quantization
+- **Pruning techniques** for visual autoregressive models and diffusion models
+- **Network quantization** and binarization
+- **Knowledge distillation** for edge deployment
+- **Mobile and edge AI** optimization
+
+I am passionate about developing principled and effective compression methods that enable large-scale AI models to run efficiently on resource-constrained devices.
