@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Visiting Student at <a href='https://www.westlake.edu.cn/'>Westlake University</a>
+subtitle: 
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, there! I am **Zefang Wang** (王泽芳).
 
-Currently, I am a visiting student at the [ENCODE Lab](https://encode.westlake.edu.cn/), Westlake University, advised by [Prof. Huan Wang](https://huanwang.tech/). I am also a Master's student at Zhejiang University, advised by Dr. Guanzhong Tian. Prior to this, I received my B.S. degree from the North University of China.
+Currently, I am a visiting student at the [ENCODE Lab](https://encode-lab-ai.github.io/), Westlake University, advised by [Prof. Huan Wang](https://huanwang.tech/). I am also a Master's student at Zhejiang University, advised by [Dr. Guanzhong Tian](https://gylu22.github.io/). Prior to this, I received my B.S. degree from the North University of China.
 
 ## Research Interests
 
