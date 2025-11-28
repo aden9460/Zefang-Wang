@@ -34,6 +34,7 @@ Currently, I am a visiting student at the [ENCODE Lab](https://encode.westlake.e
 ## Research Interests
 
 My research interests lie in **Efficient AI**, with a particular focus on accelerating image generation models via:
+
 - Network pruning
 - Knowledge distillation
 - Quantization
