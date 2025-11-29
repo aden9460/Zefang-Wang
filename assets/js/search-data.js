@@ -87,7 +87,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/Zefang-Wang/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/Zefang-Wang/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
