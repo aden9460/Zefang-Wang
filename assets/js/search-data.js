@@ -28,11 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/Zefang-Wang/books/the_godfather/";
-            },},{id: "news-submitted-evar-to-cvpr-2025-and-obs-diff-to-iclr-2025-fingers-crossed",
-          title: 'Submitted EVAR to CVPR 2025 and OBS-Diff to ICLR 2025. Fingers crossed! 🤞...',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-information-theoretic-framework-for-channel-pruning-has-been-accepted-to-ieee-tnnls",
+            },},{id: "news-our-paper-on-information-theoretic-framework-for-channel-pruning-has-been-accepted-to-ieee-tnnls",
           title: 'Our paper on Information Theoretic Framework for Channel Pruning has been accepted to...',
+          description: "",
+          section: "News",},{id: "news-submitted-evar-to-cvpr-2025",
+          title: 'Submitted EVAR to CVPR 2025.',
           description: "",
           section: "News",},{id: "news-started-my-visiting-position-at-the-encode-lab-westlake-university-advised-by-prof-huan-wang-focus-on-ios-model-deployment-and-visual-autoregressive-model-compression",
           title: 'Started my visiting position at the ENCODE Lab, Westlake University, advised by Prof....',
