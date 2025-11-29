@@ -1,200 +1,179 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zefang Wang",
+    "label": "Master's Student in Control Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zefangwang@zju.edu.cn",
+    "phone": "(+86) 18234041863",
+    "url": "https://aden9460.github.io/Zefang-Wang/",
+    "summary": "A Master's student at Zhejiang University focusing on model compression and efficient AI. Research interests include pruning techniques for visual autoregressive models and diffusion models, network quantization, and edge AI optimization.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Hangzhou",
+      "countryCode": "CN",
+      "region": "Zhejiang"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "ENCODE Lab, Westlake University",
+      "position": "Visiting Student",
+      "url": "https://encode-lab-ai.github.io/",
+      "startDate": "2025-03-01",
+      "endDate": "2025-11-30",
+      "summary": "Advised by Prof. Huan Wang. Focused on iOS mobile model deployment and visual autoregressive model compression.",
+      "highlights": [
+        "Conducted research on iOS model deployment",
+        "Developed compression methods for visual autoregressive models"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Zhejiang University",
+      "position": "Research Assistant",
+      "url": "https://www.zju.edu.cn/",
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-30",
+      "summary": "Industrial VR Glasses Backend Image Recognition Algorithm Development for Tower Group.",
+      "highlights": [
+        "Built industrial electrical cabinet component dataset for detecting 17 types of electrical components",
+        "Implemented electrical cabinet label text recognition using Paddle OCR to verify device label correctness",
+        "Deployed algorithms on server with proficiency in Linux and Docker workflows"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Zhejiang University",
+      "location": "Hangzhou, China",
+      "url": "https://www.zju.edu.cn/",
+      "area": "Control Engineering",
+      "studyType": "Master",
+      "startDate": "2023-09-01",
+      "endDate": "2026-03-31",
+      "score": "Top 10%",
+      "courses": []
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "North University of China",
+      "location": "Taiyuan, China",
+      "url": "https://www.nuc.edu.cn/",
+      "area": "Rail Transit Signal and Control",
+      "studyType": "Bachelor",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-30",
+      "score": "Top 1%",
+      "courses": []
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "EVAR: Edge Visual Autoregressive Models via Principled Pruning",
+      "publisher": "CVPR (Under Review)",
+      "releaseDate": "2026",
+      "url": "https://aden9460.github.io/EVAR/",
+      "summary": "First author. Proposed a principled OBS-based structured pruning method for visual autoregressive models with progressive scale-aware distillation to address gradient imbalance. Achieved 1.8× speedup with only 10% quality loss on edge devices for single-image generation."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot",
+      "publisher": "ICLR (Under Review)",
+      "releaseDate": "2026",
+      "url": "https://alrightlone.github.io/OBS-Diff-Webpage/",
+      "summary": "Fourth author. Proposed an OBS-based training-free multi-granularity pruning method for diffusion models with timestep-aware Hessian construction and logarithmically decreasing weights to mitigate error accumulation."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "An Effective Information Theoretic Framework for Channel Pruning",
+      "publisher": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2408.16772",
+      "summary": "Second author. Proposed an information-theoretic framework using entropy and rank fusion for layer-wise pruning rates, with Shapley value-based contribution evaluation as the intra-layer pruning criterion."
+    },
+    {
+      "name": "Network Binarization via Contrastive Deep Supervision",
+      "publisher": "NCAA Conference",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "First author. Proposed BNN-CDS, a binary network optimization method based on deep supervision and contrastive learning fusion, with a suitable scaling factor strategy."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Deep Learning & Model Compression",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Model Pruning",
+        "Network Quantization",
+        "Knowledge Distillation",
+        "Diffusion Models",
+        "Visual Autoregressive Models",
+        "Binary Neural Networks"
+      ]
+    },
+    {
+      "name": "Programming & Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "Linux",
+        "Docker",
+        "Git",
+        "Paddle OCR"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional working proficiency (CET-6)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Efficient AI",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Model Compression",
+        "Edge AI",
+        "Mobile Deployment",
+        "Pruning Techniques",
+        "Network Quantization"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "EVAR: Edge Visual Autoregressive Model Compression",
+      "summary": "Developed principled pruning methods for visual autoregressive models targeting edge device deployment. Introduced progressive scale-aware distillation to handle gradient imbalance during autoregressive fine-tuning.",
+      "highlights": [
+        "1.8× speedup on edge devices",
+        "10% quality loss in single-image generation",
+        "OBS-based structured pruning"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "url": "https://aden9460.github.io/EVAR/"
+    },
+    {
+      "name": "Industrial Electrical Cabinet Recognition System",
+      "summary": "Developed an image recognition system for industrial VR glasses to detect and verify electrical cabinet components and labels.",
+      "highlights": [
+        "17 component types detection",
+        "OCR-based label verification",
+        "Server deployment with Docker"
+      ],
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-30",
+      "url": ""
     }
   ]
 }
