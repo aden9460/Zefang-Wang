@@ -32,7 +32,7 @@ latest_posts:
   
 Hi there! I am **Zefang Wang** (王泽芳).
 
-I am currently a visiting student at the [ENCODE Lab](https://encode-lab-ai.github.io/), Westlake University, advised by [Prof. Huan Wang](https://huanwang.tech/). I am also pursuing my Master's degree in Control Engineering at Zhejiang University, supervised by [Dr. Guanzhong Tian](https://gylu22.github.io/).
+I am currently a visiting student at the [ENCODE Lab](https://westlake-encode-lab.github.io/), Westlake University, advised by [Prof. Huan Wang](https://huanwang.tech/). I am also pursuing my Master's degree in Control Engineering at Zhejiang University, supervised by [Dr. Guanzhong Tian](https://gylu22.github.io/).
 
 Previously, I received my B.S. degree in Rail Transit Signal and Control from North University of China, where I graduated with the top ranking (1%) in my major.
 
